@@ -9,6 +9,8 @@ Please help us create this amazing pack up-to-date by contributing to the develo
 
 # Special Thanks
 Special thanks to TheVizzy for the addons of more textures to the pack.
+Also a very special thanks to the contributors of the pack:
+- Eisys
 
 Original Vattic Thread:
 http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
